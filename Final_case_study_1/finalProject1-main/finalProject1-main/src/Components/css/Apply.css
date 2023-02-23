@@ -1,0 +1,12 @@
+.header {
+  text-align: center;
+}
+.Container1 {
+  display: block;
+
+  width: 600px;
+  padding: 0.5rem 0.8rem 0.5rem 0.8rem;
+  border-radius: 2px;
+  margin-left: 300px;
+  border: 1px solid black;
+}

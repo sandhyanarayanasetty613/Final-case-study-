@@ -1,0 +1,48 @@
+.form-box input,
+textarea {
+  display: block;
+  width: 37.5rem;
+  padding: 0.5rem 0.8rem 0.5rem 0.8rem;
+  border-radius: 0.125rem;
+  border: 0.063rem solid black;
+}
+.form-box {
+  margin-left: 1.875rem;
+}
+.contactimg {
+  width: 43.25rem;
+  height: 25rem;
+}
+.maincont {
+  display: flex;
+  /* margin-top: 20px; */
+  column-gap: 3.125rem;
+  column-count: 2;
+}
+.cont1,
+.cont2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* .address{
+    /* align-items: center;
+    justify-content: center; */
+/* margin-left: 600px;
+    margin-top: 10px;
+    width:600px;
+    height: 100px;
+    border: 1px solid black;
+} */
+/* @media (max-width: 62.375rem) {
+  html {
+    font-size: 55%;
+  }
+}
+
+@media (max-width: 48rem) {
+  html {
+    font-size: 45%;
+  }
+} */

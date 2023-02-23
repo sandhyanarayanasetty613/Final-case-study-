@@ -1,0 +1,124 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "wwwwwwwww",
+      "email": "sandy@gmail.com",
+      "phone": "01234567891",
+      "mess": "bdhbvsfyhvb ",
+      "id": 2
+    },
+    {
+      "name": "wwwwwwwww",
+      "email": "sandy@gmail.com",
+      "phone": "0123456789",
+      "mess": "bdhbvsfyhvb ",
+      "id": 3
+    },
+    {
+      "name": "sandhya",
+      "email": "sandy@gmail.com",
+      "phone": "7976543578",
+      "mess": " ",
+      "id": 4
+    },
+    {
+      "name": "sandhya",
+      "email": "sandy@gmail.com",
+      "phone": "7976543578",
+      "mess": "dutfvdaydvuyef",
+      "id": 5
+    },
+    {
+      "name": "sandhya22",
+      "email": "sandy@gmail.com",
+      "phone": "1234567890",
+      "mess": " ",
+      "id": 6
+    },
+    {
+      "name": "sandhya22",
+      "email": "sandy@gmail.com",
+      "phone": "",
+      "mess": " ",
+      "id": 7
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "mess": " ",
+      "id": 8
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "mess": " ",
+      "id": 9
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "mess": " ",
+      "id": 10
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "mess": " ",
+      "id": 11
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "mess": " ",
+      "id": 12
+    },
+    {
+      "name": "ayyyapppa",
+      "email": "sandy@gmail.com",
+      "phone": "01234567891",
+      "mess": " ",
+      "id": 13
+    },
+    {
+      "name": "ayyyapppa",
+      "email": "sandy@gmail.com",
+      "phone": "1234567891",
+      "mess": "fyjvkysvuvsiys",
+      "id": 14
+    },
+    {
+      "name": "ayyyapppaaaaa",
+      "email": "sandy@gmail.com",
+      "phone": "1234567891",
+      "mess": " dcdjvscydcvc adhkc",
+      "id": 15
+    },
+    {
+      "name": "ayyyapp",
+      "email": "sandy@gmail.com",
+      "phone": "1234567891",
+      "mess": " dcdjvscydcvc adhkc",
+      "id": 16
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

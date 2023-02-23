@@ -1,0 +1,106 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "22",
+      "email": "sandy@gmail.com",
+      "message": "11",
+      "id": 2
+    },
+    {
+      "name": "esgxbfc@",
+      "email": "sandy@gmail.com",
+      "message": "qq",
+      "id": 3
+    },
+    {
+      "name": "esgxbfc@",
+      "email": "sandy@gmail.com",
+      "message": "111",
+      "id": 4
+    },
+    {
+      "username": "",
+      "email": "",
+      "phonenumber": "",
+      "experience": "",
+      "address": "",
+      "id": 5
+    },
+    {
+      "username": "",
+      "email": "",
+      "phonenumber": "",
+      "experience": "",
+      "address": "",
+      "id": 6
+    },
+    {
+      "name": "wwww2222222222222222222",
+      "email": "sandy@gmail.com",
+      "phone": "1233454646",
+      "mess": "qwdfgeget",
+      "id": 7
+    },
+    {
+      "name": "wwww2222222222222222222",
+      "email": "sandy@gmail.com",
+      "phone": "1233454646",
+      "mess": "qwdfgeget",
+      "id": 8
+    },
+    {
+      "name": "",
+      "email": "",
+      "mess": "",
+      "id": 9
+    },
+    {
+      "name": "wwww",
+      "email": "sandy@gmail.com",
+      "phone": "01234567891",
+      "mess": "",
+      "id": 10
+    },
+    {
+      "name": "",
+      "email": "",
+      "mess": "",
+      "id": 11
+    },
+    {
+      "name": "",
+      "email": "",
+      "mess": "",
+      "id": 12
+    },
+    {
+      "name": "wwww2222222222222222222",
+      "email": "sandy@gmail.com",
+      "phone": "9999999999",
+      "mess": "5rfgdsfjhbfvfmhbfj",
+      "id": 13
+    },
+    {
+      "name": "sandhya",
+      "email": "sandy@gmail.com",
+      "phone": "9999999999",
+      "mess": "5rfgdsfjhbfvfmhbfj",
+      "id": 14
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,495 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "jobid": "101",
+      "username": "sandhya",
+      "email": "sandy@gmail.com",
+      "phonenumber": "01234567891",
+      "address": "",
+      "experience": "hsvwdysfdvukc ",
+      "id": 2
+    },
+    {
+      "jobid": "101",
+      "username": "",
+      "email": "",
+      "phonenumber": "",
+      "address": "",
+      "experience": "",
+      "id": 3
+    },
+    {
+      "jobid": "101",
+      "username": "",
+      "email": "",
+      "phonenumber": "",
+      "address": "",
+      "experience": "",
+      "id": 4
+    },
+    {
+      "jobid": "101",
+      "username": "",
+      "email": "",
+      "phonenumber": "",
+      "address": "",
+      "experience": "",
+      "id": 5
+    },
+    {
+      "jobid": "101",
+      "username": "",
+      "email": "a1@gmail.com",
+      "phonenumber": "",
+      "address": "",
+      "experience": "",
+      "id": 6
+    },
+    {
+      "jobid": "101",
+      "username": "",
+      "email": "",
+      "phonenumber": "",
+      "address": "",
+      "experience": "",
+      "id": 7
+    },
+    {
+      "jobid": "101",
+      "username": "",
+      "email": "",
+      "phonenumber": "",
+      "address": "",
+      "experience": "",
+      "id": 8
+    },
+    {
+      "jobid": "101",
+      "username": "sa nn",
+      "email": "",
+      "phonenumber": "",
+      "address": "",
+      "experience": "",
+      "id": 9
+    },
+    {
+      "jobid": "101",
+      "username": "sa",
+      "email": "",
+      "phonenumber": "1313233333333",
+      "address": "",
+      "experience": "",
+      "id": 10
+    },
+    {
+      "jobid": "101",
+      "username": "",
+      "email": "",
+      "phonenumber": "",
+      "address": "",
+      "experience": "",
+      "id": 11
+    },
+    {
+      "jobid": "101",
+      "username": "",
+      "email": "",
+      "phonenumber": "",
+      "address": "",
+      "experience": "",
+      "id": 12
+    },
+    {
+      "jobid": "101",
+      "username": "",
+      "email": "",
+      "phonenumber": "",
+      "address": "",
+      "experience": "",
+      "id": 13
+    },
+    {
+      "jobid": "101",
+      "username": "",
+      "email": "",
+      "phonenumber": "",
+      "address": "",
+      "experience": "",
+      "id": 14
+    },
+    {
+      "jobid": "102",
+      "username": "",
+      "email": "",
+      "phonenumber": "",
+      "address": "",
+      "experience": "",
+      "id": 15
+    },
+    {
+      "name": "",
+      "email": "sandy@gmail.com",
+      "phone": "",
+      "address": "",
+      "exp": "",
+      "id": 16
+    },
+    {
+      "name": "",
+      "email": "sandy@gmail.com",
+      "phone": "",
+      "address": "",
+      "exp": "",
+      "id": 17
+    },
+    {
+      "name": "",
+      "email": "sandy@gmail.com",
+      "phone": "",
+      "address": "",
+      "exp": "",
+      "id": 18
+    },
+    {
+      "name": "",
+      "email": "sandy@gmail.com",
+      "phone": "",
+      "address": "",
+      "exp": "",
+      "id": 19
+    },
+    {
+      "name": "",
+      "email": "sandy@gmail.com",
+      "phone": "",
+      "address": "",
+      "exp": "",
+      "id": 20
+    },
+    {
+      "name": "",
+      "email": "sandy@gmail.com",
+      "phone": "",
+      "address": "",
+      "exp": "",
+      "id": 21
+    },
+    {
+      "name": "",
+      "email": "sandy@gmail.com",
+      "phone": "",
+      "address": "",
+      "exp": "",
+      "id": 22
+    },
+    {
+      "name": "",
+      "email": "sandy@gmail.com",
+      "phone": "",
+      "address": "",
+      "exp": "",
+      "id": 23
+    },
+    {
+      "name": "",
+      "email": "sandy@gmail.com",
+      "phone": "",
+      "address": "",
+      "exp": "",
+      "id": 24
+    },
+    {
+      "name": "",
+      "email": "sandy@gmail.com",
+      "phone": "",
+      "address": "",
+      "exp": "",
+      "id": 25
+    },
+    {
+      "name": "",
+      "email": "sandy@gmail.com",
+      "phone": "",
+      "address": "",
+      "exp": "",
+      "id": 26
+    },
+    {
+      "name": "",
+      "email": "sandy@gmail.com",
+      "phone": "",
+      "address": "",
+      "exp": "",
+      "id": 27
+    },
+    {
+      "name": "",
+      "email": "sandy@gmail.com",
+      "phone": "",
+      "address": "",
+      "exp": "",
+      "id": 28
+    },
+    {
+      "name": "",
+      "email": "sandy@gmail.com",
+      "phone": "",
+      "address": "",
+      "exp": "",
+      "id": 29
+    },
+    {
+      "name": "",
+      "email": "sandy@gmail.com",
+      "phone": "",
+      "address": "",
+      "exp": "",
+      "id": 30
+    },
+    {
+      "name": "",
+      "email": "sandy@gmail.com",
+      "phone": "",
+      "address": "",
+      "exp": "",
+      "id": 31
+    },
+    {
+      "name": "",
+      "email": "sandy@gmail.com",
+      "phone": "",
+      "address": "",
+      "exp": "",
+      "id": 32
+    },
+    {
+      "name": "",
+      "email": "sandy@gmail.com",
+      "phone": "",
+      "address": "",
+      "exp": "",
+      "id": 33
+    },
+    {
+      "name": "",
+      "email": "sandy@gmail.com",
+      "phone": "",
+      "address": "",
+      "exp": "",
+      "id": 34
+    },
+    {
+      "name": "",
+      "email": "sandy@gmail.com",
+      "phone": "",
+      "address": "",
+      "exp": "",
+      "id": 35
+    },
+    {
+      "name": "",
+      "email": "sandy@gmail.com",
+      "phone": "",
+      "address": "",
+      "exp": "",
+      "id": 36
+    },
+    {
+      "name": "",
+      "email": "sandy@gmail.com",
+      "phone": "",
+      "address": "",
+      "exp": "",
+      "id": 37
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "exp": "",
+      "id": 38
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "exp": "",
+      "id": 39
+    },
+    {
+      "name": "",
+      "email": "a1@gmail.com",
+      "phone": "",
+      "address": "",
+      "exp": "",
+      "id": 40
+    },
+    {
+      "name": "",
+      "email": "sandy@gmail.com",
+      "phone": "",
+      "address": "",
+      "exp": "",
+      "id": 41
+    },
+    {
+      "name": "",
+      "email": "sandy@gmail.com",
+      "phone": "",
+      "address": "",
+      "exp": "",
+      "id": 42
+    },
+    {
+      "name": "",
+      "email": "sandy@gmail.com",
+      "phone": "",
+      "address": "vizag",
+      "exp": "",
+      "id": 43
+    },
+    {
+      "jobid": "101",
+      "username": "sandhya",
+      "email": "sandy@gmail.com",
+      "phonenumber": "1234567891",
+      "address": "",
+      "experience": "fvdvkudhfvlkdfnvkjdfv",
+      "id": 44
+    },
+    {
+      "jobid": "101",
+      "username": "sandhya",
+      "email": "sandy@gmail.com",
+      "phonenumber": "1234567891",
+      "address": "",
+      "experience": "fvdvkudhfvlkdfnvkjdfv",
+      "id": 45
+    },
+    {
+      "jobid": "101",
+      "username": "",
+      "email": "sandy@gmail.com",
+      "phonenumber": "1234567891",
+      "address": "",
+      "experience": "fvdvkudhfvlkdfnvkjdfv",
+      "id": 46
+    },
+    {
+      "jobid": "101",
+      "username": "",
+      "email": "sandy@gmail.com",
+      "phonenumber": "1234567891",
+      "address": "",
+      "experience": "fvdvkudhfvlkdfnvkjdfv",
+      "id": 47
+    },
+    {
+      "jobid": "101",
+      "username": "",
+      "email": "",
+      "phonenumber": "",
+      "address": "",
+      "experience": "",
+      "id": 48
+    },
+    {
+      "jobid": "101",
+      "username": "",
+      "email": "",
+      "phonenumber": "",
+      "address": "",
+      "experience": "",
+      "id": 49
+    },
+    {
+      "jobid": "101",
+      "username": "",
+      "email": "",
+      "phonenumber": "",
+      "address": "",
+      "experience": "",
+      "id": 50
+    },
+    {
+      "jobid": "101",
+      "username": "",
+      "email": "",
+      "phonenumber": "",
+      "address": "",
+      "experience": "",
+      "id": 51
+    },
+    {
+      "jobid": "101",
+      "username": "sandhya",
+      "email": "sandy@gmail.com",
+      "phonenumber": "01234567891",
+      "address": "vizag/banglore",
+      "experience": "ftusvfuysutvcdg",
+      "id": 52
+    },
+    {
+      "jobid": "101",
+      "username": "sandhya",
+      "email": "sandy@gmail.com",
+      "phonenumber": "1234567891",
+      "address": "vizag/banglore",
+      "experience": "ftusvfuysutvcdg",
+      "id": 53
+    },
+    {
+      "jobid": "101",
+      "username": "sandhya",
+      "email": "sandy@gmail.com",
+      "phonenumber": "1234567891",
+      "address": "vizag/banglore",
+      "experience": "ftusvfuysutvcdg",
+      "id": 54
+    },
+    {
+      "jobid": "101",
+      "username": "ayyappa",
+      "email": "sandy@gmail.com",
+      "phonenumber": "1234567891",
+      "address": "vizag/banglore",
+      "experience": "ftusvfuysutvcdg",
+      "id": 55
+    },
+    {
+      "jobid": "101",
+      "username": "ayyappa",
+      "email": "sandy@gmail.com",
+      "phonenumber": "1234567891",
+      "address": "vizag/banglore",
+      "experience": "ftusvfuysutvcdg",
+      "id": 56
+    },
+    {
+      "jobid": "105",
+      "username": "sandhya",
+      "email": "sandy@gmail.com",
+      "phonenumber": "1234567891",
+      "address": "",
+      "experience": "vsvsfvsfvhsbvskhv sfbv",
+      "id": 57
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
